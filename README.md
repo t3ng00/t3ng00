@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Hi! I’m Nikolai<br>💻 Full-Stack Developer at Elevance IT<br>
-🔥 Passionate about building seamless and efficient applications<br>
+🔭 Hi! I’m Nikolai<br>💻 Sales and Automation Specialist at Elevance IT<br>
+🔥 Passionate about building seamless and efficient sales flow<br>
 📫 Always open to connect and share ideas!
 <br>
 
