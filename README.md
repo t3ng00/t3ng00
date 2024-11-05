@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/oktavian-baranchuk" target="_blank"><img width="100%" src="./images/hero3.png"></a>
+<a href="https://www.linkedin.com/in/oktavian-baranchuk" target="_blank"><img width="100%" src="./hero3.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
 [**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
